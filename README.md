@@ -1,6 +1,6 @@
 # Privacy Policy for Personal Trip Organizer
 
-Last updated: November 1, 2026
+Last updated: November 6, 2026
 
 Personal Trip Organizer (displayed as **Trip Organizer** on your iPhone) is a
 local, offline-first trip organizer. The app does not collect data for the
@@ -13,10 +13,10 @@ tracking, telemetry, or app-managed network services. The developer does not
 receive your trip details, expenses, financial data, plans, packing lists,
 free-form notes, or images.
 
-Your content is stored locally on your device unless you choose to share or
-export it, or allow iOS device backups. The app does not upload or synchronize
-your trips. Currency estimates use bundled reference rates, with no automatic
-exchange-rate downloads.
+Your content is stored locally on your device unless you choose to share
+individual images or allow iOS device backups. The app does not upload or
+synchronize your trips. Currency estimates use bundled reference rates, with
+no automatic exchange-rate downloads.
 
 ## Camera and photos
 
@@ -33,19 +33,21 @@ download it. This is a system service, not an upload to the developer.
 If you enable App Lock, iOS handles authentication using Face ID, Touch ID, or
 your device passcode. The app never receives your passcode, fingerprint, or
 face data. App Lock controls access inside the app; it does not separately
-encrypt your database or exported files.
+encrypt your database or replace your device security.
 
-## Sharing and exports
+## Sharing individual images
 
-Sharing or exporting is initiated by you through the system share sheet. The
-destination you choose controls any subsequent transfer, storage, and privacy.
-Choosing a cloud or messaging destination may upload the content to that
-service; nothing is uploaded automatically by the app.
+Sharing an individual image is initiated by you through the system share
+sheet. The destination you choose controls any subsequent transfer, storage,
+and privacy. Choosing a cloud or messaging destination may upload the image
+to that service; nothing is uploaded automatically by the app.
 
-Exported trip archives are **unencrypted** and may include private travel
-details, financial records, notes, and images. App Lock does not protect
-exported files. Save or share them only with people and locations you trust.
-The developer does not receive a copy of your exports.
+Whole-trip ZIP export and archive import are not available. Removing the
+export feature does not delete existing trips, images, or previously saved
+exports. Previously saved trip archives are **unencrypted** and may contain
+private travel details, financial records, notes, and images. App Lock does
+not protect those copies. Keep them only with people and locations you trust.
+The developer does not receive a copy.
 
 ## Device backups
 
@@ -61,9 +63,9 @@ Apple and any backup or sharing destination have their own privacy policies.
 
 You can delete individual items and images or entire trips, including their
 local attachments. Uninstalling the app removes its local app container.
-Verify a device backup or save any exports you need before deleting the app.
+Verify a current device backup before deleting the app.
 
-Copies you exported or shared and earlier system backups are managed
+Copies you previously saved or shared and earlier system backups are managed
 separately by you and the destination provider. The app cannot retract those
 copies.
 
