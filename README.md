@@ -1,6 +1,6 @@
 # Privacy Policy for Personal Trip Organizer
 
-Last updated: November 6, 2026
+Last updated: November 16, 2026
 
 Personal Trip Organizer (displayed as **Trip Organizer** on your iPhone) is a
 local, offline-first trip organizer. The app does not collect data for the
@@ -30,6 +30,20 @@ upload them.
 
 If you select an image stored only in iCloud Photos, the system picker may
 download it. This is a system service, not an upload to the developer.
+
+## On-device expense image extraction
+
+When you choose to scan or select an expense image on a supported iPhone,
+the app uses Apple's on-device Apple Intelligence model to suggest expense
+details. The selected image and prompt are processed locally, without a
+separate OCR step. Images and model responses are not sent to a server.
+Model transcripts are not retained after review.
+
+Suggestions may be inaccurate. Review and correct them and confirm the currency
+before saving. Scanning alone does not create an expense. When you save, the
+confirmed expense details and the image kept as a receipt attachment are stored
+locally; you can remove the attachment or delete the expense.
+Manual expense entry remains available without Apple Intelligence.
 
 ## Optional app lock
 
