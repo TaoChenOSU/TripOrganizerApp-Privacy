@@ -6,6 +6,9 @@ Personal Trip Organizer (displayed as **Trip Organizer** on your iPhone) is a
 local, offline-first trip organizer. The app does not collect data for the
 developer.
 
+For app help, troubleshooting, and contact information, visit the
+[support page](https://taochenosu.github.io/TripOrganizerApp-Privacy/support.html).
+
 ## No data collection or tracking
 
 The app requires no account and includes no advertising, analytics SDKs,
